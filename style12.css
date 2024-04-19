@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+}
+body{
+    display: flex;
+    justify-content: flex-end;
+    height: 100vh;
+    align-items:flex-end;
+}
+section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 110%;
+    height: 100%;
+
+}
+
+img{
+    width: 500px;
+    height: 650px;
+    object-fit: cover;
+}
+.flex{
+    display: flex;
+}
+#pp{
+   margin-right: 30%;
+}
+button{
+padding: 9px;
+margin: 8px;
+width: 108%;
+color: white;
+border: none;
+margin-left: -0.5px;
+}
+.input{
+    padding: 17px;
+    margin: 5px;
+    width: 95%;
+    border-color: rgb(225, 228, 230);
+}
+#or{
+    border: none;
+    background-color: white;
+    color: black;
+}
+.re{
+    background-color: blue;
+}
+.f{
+    background-color: rgb(41, 41, 103);
+}
+.t{
+    background-color:rgb(23, 121, 218) ;
+}
+.g{
+    background-color: red;
+}
